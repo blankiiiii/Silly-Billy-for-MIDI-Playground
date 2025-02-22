@@ -45,3 +45,5 @@ Get ready to unleash your inner silliness with Silly-Billy-for-MIDI-Playground!
 Note: This library is intended for entertainment purposes only. Use it responsibly and be prepared to have some serious laughs!
 
 Are you ready to dive into the world of MIDI mayhem?
+
+TO SEE ASCII ART, READ RAW TEXT
